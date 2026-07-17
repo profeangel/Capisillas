@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Sillas de Escritorio",
+  "description": "Una plataforma interactiva para comparar detalladamente 8 sillas de escritorio de Mercado Libre Chile, con tablas comparativas dinámicas, simulador de compatibilidad corporal y un asesor inteligente de compra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
